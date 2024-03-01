@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HistogramOfAnImage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HistogramOfAnImage_jar</output-path>
+    <root id="archive" name="HistogramOfAnImage.jar">
+      <element id="module-output" name="HistogramOfAnImage" />
+    </root>
+  </artifact>
+</component>

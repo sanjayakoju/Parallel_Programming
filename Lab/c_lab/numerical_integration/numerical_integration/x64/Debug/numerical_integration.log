@@ -1,0 +1,4 @@
+﻿  numerical_integration.cpp
+D:\Sanjaya\MSCS notes\Parallel Programming - Bruce Lester\Lab\numerical_integration\numerical_integration\numerical_integration.cpp(9,18): error C2371: 't': redefinition; different basic types
+D:\Sanjaya\MSCS notes\Parallel Programming - Bruce Lester\Lab\numerical_integration\numerical_integration\numerical_integration.cpp(7): message : see declaration of 't'
+D:\Sanjaya\MSCS notes\Parallel Programming - Bruce Lester\Lab\numerical_integration\numerical_integration\numerical_integration.cpp(20,15): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data

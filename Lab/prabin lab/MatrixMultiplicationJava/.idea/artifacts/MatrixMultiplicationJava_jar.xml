@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MatrixMultiplicationJava:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="MatrixMultiplicationJava.jar">
+      <element id="module-output" name="MatrixMultiplicationJava" />
+    </root>
+  </artifact>
+</component>

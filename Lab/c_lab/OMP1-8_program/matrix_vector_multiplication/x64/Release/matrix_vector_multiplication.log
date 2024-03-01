@@ -1,0 +1,7 @@
+﻿  matrix_vector_multiplication.cpp
+  Generating code
+  2 of 6 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  matrix_vector_multiplication.vcxproj -> D:\Sanjaya\MSCS notes\Parallel Programming - Bruce Lester\Lab\OMP1-8_program\x64\Release\matrix_vector_multiplication.exe

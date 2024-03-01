@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Jacobi-Relaxation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Jacobi_Relaxation_jar</output-path>
+    <root id="archive" name="Jacobi-Relaxation.jar">
+      <element id="module-output" name="Jacobi-Relaxation" />
+    </root>
+  </artifact>
+</component>

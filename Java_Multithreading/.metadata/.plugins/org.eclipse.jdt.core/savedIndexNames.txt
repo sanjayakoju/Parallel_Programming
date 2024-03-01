@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Sanjaya\MSCS notes\Parallel Programming - Bruce Lester\Java_Multithreading\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+439197070.index
+2583904833.index

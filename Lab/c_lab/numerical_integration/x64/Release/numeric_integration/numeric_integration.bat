@@ -1,0 +1,5 @@
+echo Sequential Numeric Integration
+numerical_integration.exe
+echo Parallel Intergration with Critical
+numerical_integration_parallel.exe
+pause
